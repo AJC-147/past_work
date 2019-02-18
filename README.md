@@ -1,17 +1,16 @@
 # past_work
 examples of past work
 
-WordPress Websites
-https://www.restonshirt.com
-https://hb-service.biz
-https://www.onehundredwomenstrong.org
-http://www.caseysautomotive.com
+WordPress Websites <br>
+https://www.restonshirt.com <br>
+https://hb-service.biz <br>
+https://www.onehundredwomenstrong.org <br>
+http://www.caseysautomotive.com <br>
 
-Sample Blog Post
+Sample Blog Post <br>
 https://www.nvwaterproofing.com/about-us/news-and-events/30143-choosing-the-right-flooring-for-your-basement.html
 
-Sample Social Media Posts 
-
+https://github.com/AJC-147/past_work/blob/master/NovaMagSocial.md
 
 Front-end Development
 GIPHY API => https://ajc-147.github.io/GIPHY/
